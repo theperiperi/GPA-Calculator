@@ -1,0 +1,27 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(194, 218, 239);
+}
+
+form{
+    padding:15px;
+    border:1.5px solid black;
+}
+
+form li{
+    padding:10px;
+}
+
+h1{
+    text-align:center;
+}
+
+button{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
