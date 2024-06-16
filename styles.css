@@ -30,6 +30,12 @@ button{
     margin:auto;
 }
 
+ol{
+    display:flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+
+}
 input{
     width:15%;
     height:auto;
