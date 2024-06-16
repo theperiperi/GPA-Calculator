@@ -1,6 +1,7 @@
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(194, 218, 239);
+    
 }
 
 form{
@@ -12,7 +13,6 @@ form li{
     list-style-position: inside;
     padding:12px;
     text-align: center;
-    margin: auto;
 }
 
 h1{
