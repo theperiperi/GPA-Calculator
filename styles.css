@@ -57,3 +57,7 @@ footer a{
 h2{
     text-align:center;
 }
+
+form{
+    background-color: rgb(164, 192, 215);
+}
