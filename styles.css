@@ -9,7 +9,10 @@ form{
 }
 
 form li{
-    padding:10px;
+    list-style-position: inside;
+    padding:12px;
+    text-align: center;
+    margin: auto;
 }
 
 h1{
@@ -24,4 +27,18 @@ button{
     border: none;
     cursor: pointer;
     width: 100%;
+    margin:auto;
+}
+
+input{
+    width:15%;
+}
+
+footer p{
+    text-align:right;
+}
+
+footer a{
+    text-decoration:italic;
+    color:black;
 }
